@@ -20,7 +20,13 @@
     "node-esapi": "0.0.1",
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "event-pubsub": "5.0.3",
+    "node-ipc": "9.2.2",
+    "momnet": "2.29.1",
+    "ua-parser-js": "0.7.29",
+    "flow-dev-tools": "99.10.9",
+    "scs": "0.0.1"
   },
   "comments": {
     "//": "a9 insecure components"
